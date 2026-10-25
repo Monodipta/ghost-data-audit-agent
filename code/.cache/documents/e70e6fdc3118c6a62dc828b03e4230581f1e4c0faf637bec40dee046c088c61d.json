@@ -1,0 +1,30 @@
+{
+ "answer": {
+  "records": [
+   {
+    "emails": [
+     "darwish.omar@icloud.com"
+    ],
+    "names": [
+     "Omar Darwish"
+    ],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "ANALYTICS_PROFILE",
+    "resource_id": "analytics_7438",
+    "shows_personal_identifiers": true,
+    "system_id": "analytics_platform",
+    "user_ids": [
+     "user_20"
+    ]
+   }
+  ]
+ },
+ "model": "gemini-3.7-flash",
+ "usage": {
+  "input_tokens": 1610,
+  "output_tokens": 156,
+  "thinking_tokens": 562
+ }
+}

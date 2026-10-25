@@ -1,0 +1,44 @@
+{
+ "answer": {
+  "objects": [
+   {
+    "name": "delivery_confirmation_19.pdf",
+    "presence": "PRESENT"
+   },
+   {
+    "name": "delivery_confirmation_20.pdf",
+    "presence": "PRESENT"
+   },
+   {
+    "name": "return_label_4821.pdf",
+    "presence": "PRESENT"
+   },
+   {
+    "name": "return_label_4876.pdf",
+    "presence": "PRESENT"
+   },
+   {
+    "name": "invoice_NS-10493.pdf",
+    "presence": "PRESENT"
+   },
+   {
+    "name": "parcel_damage_7713.jpg",
+    "presence": "PRESENT"
+   },
+   {
+    "name": "customer_export_2026-02-10.zip",
+    "presence": "PRESENT"
+   },
+   {
+    "name": "customer_export_2026-02-12.zip",
+    "presence": "PRESENT"
+   }
+  ]
+ },
+ "model": "gemini-3.5-flash",
+ "usage": {
+  "input_tokens": 1182,
+  "output_tokens": 149,
+  "thinking_tokens": 1199
+ }
+}

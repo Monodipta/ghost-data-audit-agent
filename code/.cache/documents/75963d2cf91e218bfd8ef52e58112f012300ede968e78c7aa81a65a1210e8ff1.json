@@ -1,0 +1,40 @@
+{
+ "answer": {
+  "records": [
+   {
+    "emails": [
+     "jain.aditi@gmail.com"
+    ],
+    "names": [],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "ACTIVE",
+    "record_type": "DATA_FLOW",
+    "resource_id": "data_flow_1121",
+    "shows_personal_identifiers": true,
+    "system_id": "integration_service",
+    "user_ids": []
+   },
+   {
+    "emails": [
+     "lucia-torres@gmail.com"
+    ],
+    "names": [],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "ACTIVE",
+    "record_type": "DATA_FLOW",
+    "resource_id": "data_flow_9846",
+    "shows_personal_identifiers": true,
+    "system_id": "integration_service",
+    "user_ids": []
+   }
+  ]
+ },
+ "model": "gemini-3.7-flash",
+ "usage": {
+  "input_tokens": 1610,
+  "output_tokens": 248,
+  "thinking_tokens": 633
+ }
+}

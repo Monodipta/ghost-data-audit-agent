@@ -1,0 +1,11 @@
+{
+ "answer": {
+  "records": []
+ },
+ "model": "gemini-3.5-flash",
+ "usage": {
+  "input_tokens": 791,
+  "output_tokens": 4,
+  "thinking_tokens": 1189
+ }
+}

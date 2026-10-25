@@ -1,0 +1,44 @@
+{
+ "answer": {
+  "records": [
+   {
+    "emails": [
+     "haruka.s1838@zoho.com"
+    ],
+    "names": [
+     "Haruka Sato"
+    ],
+    "phones": [
+     "+81 90 7610 2507"
+    ],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "USER_PROFILE",
+    "resource_id": "account_5762",
+    "shows_personal_identifiers": true,
+    "system_id": "account_service",
+    "user_ids": [
+     "user_11"
+    ]
+   },
+   {
+    "emails": [],
+    "names": [],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "SUPPORT_MESSAGE",
+    "resource_id": "support_9538",
+    "shows_personal_identifiers": false,
+    "system_id": "support_platform",
+    "user_ids": []
+   }
+  ]
+ },
+ "model": "gemini-3.5-flash",
+ "usage": {
+  "input_tokens": 1624,
+  "output_tokens": 283,
+  "thinking_tokens": 2175
+ }
+}

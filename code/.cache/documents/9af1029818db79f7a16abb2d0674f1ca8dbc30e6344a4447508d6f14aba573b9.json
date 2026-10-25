@@ -1,0 +1,30 @@
+{
+ "answer": {
+  "records": [
+   {
+    "emails": [
+     "sj.park@naver.com"
+    ],
+    "names": [
+     "Soo-jin Park"
+    ],
+    "phones": [
+     "+82 10-5837-9451"
+    ],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "MARKETING_PROFILE",
+    "resource_id": "marketing_001",
+    "shows_personal_identifiers": true,
+    "system_id": "marketing_platform",
+    "user_ids": []
+   }
+  ]
+ },
+ "model": "gemini-3.7-flash",
+ "usage": {
+  "input_tokens": 1636,
+  "output_tokens": 95,
+  "thinking_tokens": 462
+ }
+}

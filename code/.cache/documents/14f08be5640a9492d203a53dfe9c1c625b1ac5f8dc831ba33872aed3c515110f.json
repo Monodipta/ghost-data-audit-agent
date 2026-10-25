@@ -1,0 +1,28 @@
+{
+ "answer": {
+  "records": [
+   {
+    "emails": [
+     "kagyeman8947@fastmail.com"
+    ],
+    "names": [
+     "Kofi Agyeman"
+    ],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "SUPPORT_MESSAGE",
+    "resource_id": "support_1034",
+    "shows_personal_identifiers": true,
+    "system_id": "support_platform",
+    "user_ids": []
+   }
+  ]
+ },
+ "model": "gemini-3.7-flash",
+ "usage": {
+  "input_tokens": 1624,
+  "output_tokens": 84,
+  "thinking_tokens": 552
+ }
+}

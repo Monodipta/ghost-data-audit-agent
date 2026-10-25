@@ -1,0 +1,112 @@
+{
+ "answer": {
+  "results": [
+   {
+    "id": 0,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 1,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 2,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 3,
+    "label": "NOT_DELETION",
+    "reason": "CORRECTION"
+   },
+   {
+    "id": 4,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 5,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 6,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 7,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 8,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 9,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 10,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 11,
+    "label": "NOT_DELETION",
+    "reason": "ACCESS_OR_EXPORT"
+   },
+   {
+    "id": 12,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 13,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 14,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 15,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 16,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 17,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 18,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 19,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   }
+  ]
+ },
+ "model": "gemini-3.5-flash-lite",
+ "usage": {
+  "input_tokens": 1051,
+  "output_tokens": 816,
+  "thinking_tokens": 0
+ }
+}

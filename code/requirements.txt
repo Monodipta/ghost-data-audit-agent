@@ -1,0 +1,5 @@
+google-genai
+langgraph
+pymupdf
+python-dotenv
+pydantic

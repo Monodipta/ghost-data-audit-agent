@@ -1,0 +1,26 @@
+{
+ "answer": {
+  "records": [
+   {
+    "emails": [],
+    "names": [],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "ACCOUNT_TOMBSTONE",
+    "resource_id": "user_17",
+    "shows_personal_identifiers": false,
+    "system_id": "account_service",
+    "user_ids": [
+     "user_17"
+    ]
+   }
+  ]
+ },
+ "model": "gemini-3.7-flash",
+ "usage": {
+  "input_tokens": 1636,
+  "output_tokens": 71,
+  "thinking_tokens": 2304
+ }
+}

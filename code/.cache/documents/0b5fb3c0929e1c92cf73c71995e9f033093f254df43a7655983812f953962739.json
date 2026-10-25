@@ -1,0 +1,26 @@
+{
+ "answer": {
+  "records": [
+   {
+    "emails": [],
+    "names": [],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "SECURITY_AUDIT_LOG",
+    "resource_id": "audit_record_003",
+    "shows_personal_identifiers": false,
+    "system_id": "security_service",
+    "user_ids": [
+     "user_03"
+    ]
+   }
+  ]
+ },
+ "model": "gemini-3.7-flash",
+ "usage": {
+  "input_tokens": 749,
+  "output_tokens": 131,
+  "thinking_tokens": 754
+ }
+}

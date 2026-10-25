@@ -1,0 +1,23 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Run artifacts (code/.cache is committed on purpose: it makes offline runs reproducible)
+code/traces/
+
+# Submission packaging / local transcripts
+*.zip
+agent-trace/
+20??-??-??-*.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

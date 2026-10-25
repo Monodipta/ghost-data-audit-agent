@@ -1,0 +1,30 @@
+{
+ "answer": {
+  "records": [
+   {
+    "emails": [
+     "priya.raman@gmail.com"
+    ],
+    "names": [
+     "Priya Raman"
+    ],
+    "phones": [
+     "+91 98765 73142"
+    ],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "SUPPORT_ATTACHMENT",
+    "resource_id": "support_001",
+    "shows_personal_identifiers": true,
+    "system_id": "support_platform",
+    "user_ids": []
+   }
+  ]
+ },
+ "model": "gemini-3.7-flash",
+ "usage": {
+  "input_tokens": 808,
+  "output_tokens": 93,
+  "thinking_tokens": 884
+ }
+}

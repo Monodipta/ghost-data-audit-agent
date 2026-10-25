@@ -1,0 +1,62 @@
+{
+ "answer": {
+  "records": [
+   {
+    "emails": [],
+    "names": [],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "USER_EXPORT",
+    "resource_id": "export_1261",
+    "shows_personal_identifiers": false,
+    "system_id": "export_service",
+    "user_ids": []
+   },
+   {
+    "emails": [
+     "ingrid.dahl@outlook.com"
+    ],
+    "names": [],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "USER_EXPORT",
+    "resource_id": "export_1260",
+    "shows_personal_identifiers": true,
+    "system_id": "export_service",
+    "user_ids": []
+   },
+   {
+    "emails": [],
+    "names": [],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "USER_EXPORT",
+    "resource_id": "export_1259",
+    "shows_personal_identifiers": false,
+    "system_id": "export_service",
+    "user_ids": []
+   },
+   {
+    "emails": [],
+    "names": [],
+    "phones": [],
+    "presence": "PRESENT",
+    "process_state": "NOT_APPLICABLE",
+    "record_type": "USER_EXPORT",
+    "resource_id": "export_1258",
+    "shows_personal_identifiers": false,
+    "system_id": "export_service",
+    "user_ids": []
+   }
+  ]
+ },
+ "model": "gemini-3.7-flash",
+ "usage": {
+  "input_tokens": 1636,
+  "output_tokens": 444,
+  "thinking_tokens": 2665
+ }
+}

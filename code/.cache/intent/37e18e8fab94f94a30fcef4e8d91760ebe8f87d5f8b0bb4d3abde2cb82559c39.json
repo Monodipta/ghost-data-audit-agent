@@ -1,0 +1,32 @@
+{
+ "answer": {
+  "results": [
+   {
+    "id": 0,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 1,
+    "label": "DELETION",
+    "reason": "ACCOUNT_OR_DATA_ERASURE"
+   },
+   {
+    "id": 2,
+    "label": "NOT_DELETION",
+    "reason": "ACCESS_OR_EXPORT"
+   },
+   {
+    "id": 3,
+    "label": "NOT_DELETION",
+    "reason": "ACCESS_OR_EXPORT"
+   }
+  ]
+ },
+ "model": "gemini-3.5-flash-lite",
+ "usage": {
+  "input_tokens": 389,
+  "output_tokens": 168,
+  "thinking_tokens": 0
+ }
+}
