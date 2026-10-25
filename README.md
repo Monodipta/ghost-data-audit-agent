@@ -1,6 +1,20 @@
 # Ghost Data Audit Agent
 
-**HackerRank Orchestrate (October 2026) — Ghost Data Still Exists**
+**HackerRank Orchestrate (October 2026) — Ghost Data Still Exists** · **Rank: 150** (provisional)
+
+My solution to the [Ghost Data Still Exists](https://www.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges/ghost-data-still-exists)
+challenge in the HackerRank Orchestrate October 2026 contest.
+
+## The problem
+
+Start with [`problem_statement.md`](problem_statement.md). In short: a fictional shop's deletion workflow reports
+**"Complete"**, yet the customer's data survives in replicas, logs, support attachments, exports, search indexes,
+analytics and backups, and sync or restore jobs can bring deleted data back. For each of 518 deletion requests,
+the agent must decide whether the person really asked for deletion, find every remaining copy of their data at the
+case's `audit_at` time, and output `COMPLETE`, `INCOMPLETE` or `NOT_APPLICABLE` with an ordered plan of findings,
+remediation and verification steps (`case_id,deletion_status,steps_json`).
+
+## The solution
 
 An evidence-driven agent that decides, for every deletion request, whether a person's data is really gone. It
 reads the deletion request, works out who the person is (including old emails and their hashes), reconstructs
