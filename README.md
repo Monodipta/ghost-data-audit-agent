@@ -1,6 +1,6 @@
 # Ghost Data Audit Agent
 
-**HackerRank Orchestrate (October 2026) — Ghost Data Still Exists** · **Rank: 150** (provisional)
+**HackerRank Orchestrate (October 2026) — Ghost Data Still Exists** ·
 
 My solution to the [Ghost Data Still Exists](https://www.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges/ghost-data-still-exists)
 challenge in the HackerRank Orchestrate October 2026 contest.
